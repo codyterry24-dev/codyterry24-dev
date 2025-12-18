@@ -26,16 +26,9 @@ I'm an AI dreamer building cool tools to change the world. I specialize in creat
 - **Diagnostic Landing**: Modern web applications
 - **Smart Career Kit Store**: Next-generation career development tools
 
-## 📊 GitHub Stats
-
-![Cody's GitHub stats](https://github-readme-stats.vercel.app/api?username=codyterry24-dev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codyterry24-dev&layout=compact&theme=radical)
-
 ## 🏆 Achievements
 
 - 💼 Founded AXT Labs - Building transformative tech solutions
-- 🎯 422 contributions in the last year
 - 🚀 Active contributor across multiple innovative projects
 - 🌟 Passionate about AI and emerging technologies
 

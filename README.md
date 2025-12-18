@@ -18,15 +18,9 @@ I'm an AI dreamer building cool tools to change the world. I specialize in creat
 - API Development
 - DevOps & CI/CD
 
-## 🔥 Current Projects
-
-- **OpsPulse Engine**: Smart friction-solving platform with GRT-4o-mini and OpenAI integration
-- **Freshock Web**: Interactive web experiences
-- **CODEX-AGENT**: Industry-ready RNA 3D structure visualization with multi-agent orchestration
-- **Diagnostic Landing**: Modern web applications
-- **Smart Career Kit Store**: Next-generation career development tools
-
 ## 🏆 Achievements
+
+
 
 - 💼 Founded AXT Labs - Building transformative tech solutions
 - 🚀 Active contributor across multiple innovative projects

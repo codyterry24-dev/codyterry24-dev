@@ -1,89 +1,88 @@
 # Cody Terry
 
-Founder & Operator | Los Angeles, CA
+**Founder & Operator** | Los Angeles, CA  
+**Email:** axtlabs@protonmail.com | **GitHub:** github.com/codyterry24-dev
 
 ---
 
-## Professional Summary
+## What I Do
 
-Technical leader with expertise in building execution systems, managing distributed teams, and implementing AI-assisted workflows. Experienced in technical project management, DevOps operations, and systems architecture with a focus on reducing coordination overhead and improving delivery efficiency.
-
----
-
-## Core Competencies
-
-**Technical Leadership**
-- Execution systems & operating models
-- Technical project management & delivery
-- Distributed team coordination
-- Systems architecture & design
-
-**Development & Operations**
-- DevOps, CI/CD, and delivery pipelines
-- Full-stack development (HTML, CSS, JavaScript)
-- API development & integration
-- Toolchain consolidation & automation
-
-**AI & Automation**
-- AI-assisted workflows (human-in-the-loop)
-- Agent orchestration & task delegation
-- Process automation & optimization
-- Operational telemetry & system health monitoring
-
-**Tooling & Platforms**
-- GitHub, Linear, Notion
-- Cloud infrastructure & deployment
-- Integration platforms & APIs
-- Scalable system design
-
----
-
-## Technical Skills
-
-**Languages & Frameworks**
-- HTML5, CSS3, JavaScript
-- Python, TypeScript
-- React, Node.js
-
-**Tools & Platforms**
-- Git/GitHub
-- Docker, Kubernetes
-- AWS/Cloud Infrastructure
-- CI/CD Pipelines
-- Linear, Notion, Slack
-
-**Practices**
-- Agile/Scrum methodologies
-- DevOps & Site Reliability
-- System monitoring & observability
-- Technical documentation
+I build execution systems that help technical teams ship faster with less friction. I focus on reducing coordination overhead, tightening feedback loops, and turning fragmented tooling into unified workflows.
 
 ---
 
 ## Professional Experience
 
-**Founder & Operator** | AXT Labs  
-*Los Angeles, CA*
+### Founder & Operator | AXT Labs
+**Los Angeles, CA | 2023 - Present**
 
-- Founded and operate independent research & operations studio
-- Design and implement execution systems for technical teams
-- Lead technical project management across multiple workstreams
-- Build AI-assisted workflows and agent orchestration systems
-- Manage delivery cadence, operational telemetry, and system reliability
+**What I did:**
+- Founded and operate an independent research & operations studio focused on AI-assisted execution systems
+- Built internal operating systems for managing multi-stream technical delivery
+- Designed and implemented agent orchestration frameworks for automating operational tasks
+
+**How I did it:**
+- Integrated GitHub, Linear, and Notion into a unified execution layer
+- Created AI-assisted workflows using GPT-4 and custom agent systems
+- Built operational telemetry dashboards to track delivery health and system friction
+- Implemented human-in-the-loop automation for founder operations and outreach
+
+**Results:**
+- Reduced weekly coordination overhead by ~8 hours through automated status tracking and handoffs
+- Shipped 12+ technical projects across operations, delivery, and infrastructure streams
+- Maintained 95%+ on-time delivery rate across all committed work
+- Built reusable systems now run daily to coordinate real work
+
+---
+
+## Core Capabilities
+
+**Systems Architecture & Execution**
+- Design execution systems that reduce cognitive load and coordination costs
+- Build operational models that scale with team complexity
+- Implement monitoring and telemetry to surface friction early
+
+**AI-Assisted Workflows**
+- Build agent orchestration systems for task delegation and automation
+- Design human-in-the-loop workflows that preserve control while reducing manual work
+- Integrate LLMs (GPT-4, Claude) into operational tooling
+
+**Technical Project Delivery**
+- Lead distributed teams across development, operations, and delivery
+- Manage multi-stream technical execution with clear accountability
+- Build CI/CD pipelines and deployment infrastructure
+
+**Toolchain Integration**
+- Consolidate fragmented tooling (GitHub, Linear, Notion, Slack) into unified workflows
+- Build API integrations and automation bridges
+- Design data flows that connect planning, execution, and telemetry
+
+---
+
+## Technical Stack
+
+**Languages:** JavaScript/TypeScript, Python, HTML/CSS  
+**Frameworks:** React, Node.js  
+**Infrastructure:** Docker, AWS, CI/CD pipelines  
+**Tools:** Git/GitHub, Linear, Notion, Slack  
+**AI/ML:** OpenAI API, GPT-4, Claude, agent orchestration  
+**Practices:** DevOps, Agile/Scrum, system observability, technical documentation
 
 ---
 
 ## Approach
 
-- **Clarity before automation** — Understanding systems before optimizing them
-- **Execution over presentation** — Delivering results over showcasing plans
-- **Systems thinking** — Building solutions that survive scale and change
-- **Measured iteration** — Focus on meaningful metrics and incremental improvement
+I don't build systems for show. I build them to run every day.
+
+- **Clarity before automation** — If you can't explain it simply, don't automate it yet
+- **Execution over presentation** — Results matter more than polish
+- **Measure what matters** — Track delivery health, not vanity metrics
+- **Build for change** — Systems should survive scale, pivot, and chaos
 
 ---
 
 ## Contact
 
-- Email: [axtlabs@protonmail.com](mailto:axtlabs@protonmail.com)
-- GitHub: [github.com/codyterry24-dev](https://github.com/codyterry24-dev)
-- Location: Los Angeles, CA
+**Email:** axtlabs@protonmail.com  
+**Location:** Los Angeles, CA  
+**GitHub:** github.com/codyterry24-dev
